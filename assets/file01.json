@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 3,
+        "lat": 28
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 311.23,
+        "feels_like": 308.12,
+        "temp_min": 311.23,
+        "temp_max": 311.23,
+        "pressure": 1013,
+        "humidity": 8,
+        "sea_level": 1013,
+        "grnd_level": 952
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.02,
+        "deg": 78,
+        "gust": 11.79
+    },
+    "clouds": {
+        "all": 13
+    },
+    "dt": 1721248738,
+    "sys": {
+        "country": "DZ",
+        "sunrise": 1721192545,
+        "sunset": 1721241931
+    },
+    "timezone": 3600,
+    "id": 2589581,
+    "name": "Algeria",
+    "cod": 200
+}
